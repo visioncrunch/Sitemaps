@@ -7,7 +7,7 @@ This guide provides step-by-step instructions on how to scrape your grades from 
 - Google Chrome browser
 - Web Scraper extension installed (Available for free on the [Chrome Web Store](https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn))
 
-## Instruction (Steps you need to do only once)
+## Instruction (Steps you need to do only once - intial setup)
 1. Open a new tab in your Google Chrome browser.
 2. Press `Ctrl + Shift + C` to open the inspection tools. (Shortcut might differ for other OS and browsers)
 3. In the inspection tools window, navigate to the "Web Scraper" tab and click on it.
@@ -22,6 +22,8 @@ This guide provides step-by-step instructions on how to scrape your grades from 
 12. After completion, the tab will stop, and you might see a message indicating "Scraping Completed".
 13. Go back to the dropdown menu of your sitemap and select "Export Data".
 14. Choose the desired format, such as `.xlsx` for an Excel file, and export your scraped data.
+
+## repeat step 8 to 14 whenever you need to scrape your grades
 
 ## Conclusion
 By following these steps, you can scrape your grades from Coursera using the provided sitemap and the Web Scraper extension. This allows you to conveniently collect and analyze your course performance data.
