@@ -7,7 +7,7 @@ This guide provides step-by-step instructions on how to scrape your grades from 
 - Google Chrome browser
 - Web Scraper extension installed (Available for free on the [Chrome Web Store](https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn))
 
-## Instruction (Steps you need to do only once - intial setup)
+## Instruction (Steps you need to do only once - initial setup)
 1. Open a new tab in your Google Chrome browser.
 2. Press `Ctrl + Shift + C` to open the inspection tools. (Shortcut might differ for other OS and browsers)
 3. In the inspection tools window, navigate to the "Web Scraper" tab and click on it.
