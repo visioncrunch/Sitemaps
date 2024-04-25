@@ -12,7 +12,7 @@ This guide provides step-by-step instructions on how to scrape your grades from 
 2. Press `Ctrl + Shift + C` to open the inspection tools. (Shortcut might differ for other OS and browsers)
 3. In the inspection tools window, navigate to the "Web Scraper" tab and click on it.
 4. The Web Scraper interface will appear. Click on "Create Sitemap".
-5. Select "Import sitemap" and copy-paste the contents of sitemap.xml into the designated area.
+5. Select "Import sitemap" and copy-paste the contents of [sitemap.xml](https://github.com/visioncrunch/Sitemaps/blob/main/sitemap.xml) into the designated area.
 6. Choose a name for your sitemap and click "Import Sitemap".
 7. Once the sitemap is created, go to the "Sitemaps" tab and click on your newly created sitemap.
 8. Click on the dropdown menu and select "Scrape".
